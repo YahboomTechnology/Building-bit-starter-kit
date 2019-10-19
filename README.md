@@ -1,5 +1,5 @@
 # Building-bit-starter-kit
-![](http://m.qpic.cn/psb?/V12aIGgQ3D78BF/x9fwmhGe4VcgowgzfA0mBjdNZVQmYuaRMDZ5Jj2NXNg!/b/dL8AAAAAAAAA&bo=IAMgAwAAAAARBzA!&rf=viewer_4)
+![](http://m.qpic.cn/psb?/V12aIGgQ3D78BF/C4NtIuVY2CKkxmetGJahnEu43lhUMvyp7SJ2qjRxFWo!/b/dDYBAAAAAAAA&bo=IAMgAyADIAMRCT4!&rf=viewer_4)
 # Introduction
 Croco:kit is a learning kit for STEAM education. It comes with a BBC micro:bit board, includes 13 sensor modules, servo, motor and fan, and the diamond expansion board with touch chip. They can be easily connected to each other by alligator clips.
 
