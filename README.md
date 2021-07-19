@@ -13,8 +13,6 @@ Using MakeCode graphical programming, not only can learn programming, but also h
 * A variety of creative games can be achieved: Fruit piano, Game keyboard, Remote control handle, DIY accordion, Color sorter, Watering reminder, and so on.
 * Amazing extendibility and endless creativity.
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/-/zh/dp/B07N66B6DR?ref_=ast_sto_dp)
-
 [By on Yahboom website](https://category.yahboom.net/collections/r-building-block/products/buildingbit)
 
 # Please Contact Us
@@ -26,15 +24,8 @@ https://www.facebook.com/yahboomcar/
 https://www.facebook.com/yahboomtech
 
 ### WhatsApp:
-+86 15818515042
-
 +86 18682378128
 
-### Skype:
-sales_79883
-
-Dolphin2448534184@gmail.com
 ### Technical support email: 
-market@yahboom.com
-### Amazon support email: 
-amazon@yahboom.com
+support@yahboom.com
+
